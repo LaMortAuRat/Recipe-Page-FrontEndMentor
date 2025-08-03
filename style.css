@@ -12,7 +12,7 @@
 }
 
 body {
-  background-color: hsl(30, 18%, 87%);
+  background-color: hsl(30, 54%, 90%);
   font-size: 16px;
   margin: 0;
 }
@@ -57,9 +57,6 @@ h1, h2 {
   padding: 0;
 }
 
-
-
-
 #section2 {
   padding-bottom: 0;
 }
@@ -100,9 +97,6 @@ h1, h2 {
   margin-bottom: 0.625rem;
 }
 
-
-
-
 #section3 {
   border-bottom: solid 1px  #0000001f;
   padding-bottom: 2.1rem;
@@ -130,9 +124,6 @@ h1, h2 {
   margin-left: 1.875rem;
 }
 
-
-
-
 #section4 {
   border-bottom: solid 1px  #0000001f;
   padding-bottom: 2.1rem;
@@ -159,9 +150,6 @@ h1, h2 {
   color: black;
   font-weight: 400;
 }
-
-
-
 
 #section5 p,
 #nutrition-grid {
@@ -202,8 +190,6 @@ h1, h2 {
 #last-nutrition-row {
   border-bottom: none;
 }
-
-
 
 ul, ol, li, p, .nutrition-column {
   font-family: Outfit;
@@ -267,4 +253,3 @@ strong {
     font-size: 10px;
   }
 }
-

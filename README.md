@@ -1,8 +1,8 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - R
 
 ![Design preview for the Recipe page coding challenge](./preview.jpg)
 
-## Welcome! 👋
+## Welcome! 
 
 Thanks for checking out this front-end coding challenge.
 
